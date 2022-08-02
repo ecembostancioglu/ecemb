@@ -1,12 +1,13 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Flutter+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/0H7rTdp29D3TwwKeyQ/giphy.gif" width="500" height="500" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Flutter+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg) 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fecembostancioglu&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <h2> About Me</h2>
 
+<img width="55%" align="right" src="https://media.giphy.com/media/0H7rTdp29D3TwwKeyQ/giphy.gif" width="500" height="500" />
 
 
 - 🔭 I’m currently working on Flutter
