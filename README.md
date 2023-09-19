@@ -1,16 +1,12 @@
 
 
-<h1 align="center">
+<h3 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ecem+Bostancıoğlu..;Nice+to+meet+you!&center=true&size=25">
   </a>
-</h1>
+</h3>
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fecembostancioglu&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<h2> About Me</h2>
+<h3> About Me</h3>
 
 
 - 🔭 I’m currently working on Mobile Development
