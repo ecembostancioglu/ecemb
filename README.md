@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on Mobile App Projects
 
-- 💬 Talk to me about Mobile App Development, Flutter and Kotlin
+- 💬 Talk to me about Mobile App Development, Flutter and Swift
 
 
 <h3 align="left">Software and Tools</h3>
@@ -26,14 +26,14 @@
 <h3 align="left">Framework & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+    <img src="https://skillicons.dev/icons?i=flutter,swift" />
   </a>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,kotlin,python" />
+    <img src="https://skillicons.dev/icons?i=dart,swift,python" />
   </a>
 </p>
 
